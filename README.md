@@ -18,3 +18,33 @@ Prepare a local workstation for the AZ-104 Azure Administrator Bootcamp.
 ## Outcome
 
 Successfully prepared the local workstation and Azure subscription for hands-on Azure administration labs.
+
+
+---
+
+# 🚀 Bootcamp Progress
+
+| Lab | Status |
+|------|--------|
+| Environment Setup | ✅ Complete |
+| Azure Architecture | ⏳ Pending |
+| Resource Groups | ⏳ Pending |
+| Microsoft Entra ID | ⏳ Pending |
+| Azure Storage | ⏳ Pending |
+| Virtual Networks | ⏳ Pending |
+| Virtual Machines | ⏳ Pending |
+| Network Security Groups | ⏳ Pending |
+| Monitoring | ⏳ Pending |
+| Backup & Recovery | ⏳ Pending |
+
+---
+
+# 💻 Technologies
+
+- Microsoft Azure
+- Azure CLI
+- PowerShell
+- Visual Studio Code
+- Git
+- GitHub
+- Microsoft Entra ID
