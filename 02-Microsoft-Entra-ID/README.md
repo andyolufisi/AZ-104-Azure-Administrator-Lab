@@ -31,3 +31,34 @@ Learn how Microsoft Entra ID manages identities and access in Azure.
 - User Administration
 - Group Administration
 - Azure RBAC
+
+
+  # Screenshots
+
+## Microsoft Entra ID
+
+![Microsoft Entra ID](EntraOverview.png)
+
+---
+
+## User Creation
+
+![User Creation](Users.png)
+
+---
+
+## Group Creation
+
+![Group](Groups.png)
+
+---
+
+## Group Members
+
+![Group Members](GroupMembers.png)
+
+---
+
+## Role Assignment
+
+![Role Assignment](RoleAssignments.png)
