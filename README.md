@@ -27,8 +27,8 @@ Successfully prepared the local workstation and Azure subscription for hands-on 
 | Lab | Status |
 |------|--------|
 | Environment Setup | ✅ Complete |
-| Azure Architecture | ⏳ Pending |
-| Resource Groups | ⏳ Pending |
+| Azure Architecture | ✅ Complete |
+| Resource Groups | ✅ Complete |
 | Microsoft Entra ID | ⏳ Pending |
 | Azure Storage | ⏳ Pending |
 | Virtual Networks | ⏳ Pending |
