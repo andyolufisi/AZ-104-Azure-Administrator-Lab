@@ -59,7 +59,7 @@ Successfully prepared the local workstation and Azure subscription for hands-on 
 
 ## Resource Group Creation
 
-![Create Resource Group](CreateResourceGroup.png)
+![Create Resource Group](CreateResouceGroup.png)
 
 ---
 
