@@ -48,3 +48,33 @@ Successfully prepared the local workstation and Azure subscription for hands-on 
 - Git
 - GitHub
 - Microsoft Entra ID
+
+# Screenshots
+
+## Azure Portal
+
+![Azure Portal](AzurePortalHome.png)
+
+---
+
+## Resource Group Creation
+
+![Create Resource Group](CreateResourceGroup.png)
+
+---
+
+## Tags
+
+![Tags](Tags.png)
+
+---
+
+## Deployment Successful
+
+![Deployment](DeploymentSuccess.png)
+
+---
+
+## Overview
+
+![Overview](Overview.png)
