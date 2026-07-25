@@ -1,0 +1,53 @@
+# Azure Resource Groups
+
+## Objective
+
+Learn how Azure Resource Groups logically organize Azure resources.
+
+## Services Used
+
+- Resource Groups
+- Azure Portal
+- Tags
+
+## Tasks Completed
+
+- Created Resource Group
+- Applied Tags
+- Verified Deployment
+
+## Lessons Learned
+
+- Resource Groups are logical containers.
+- Resources can be organized by project.
+- Tags improve management and cost reporting.
+
+  # Screenshots
+
+## Azure Portal
+
+![Azure Portal](AzurePortalHome.png)
+
+---
+
+## Resource Group Creation
+
+![Create Resource Group](CreateResourceGroup.png)
+
+---
+
+## Tags
+
+![Tags](Tags.png)
+
+---
+
+## Deployment Successful
+
+![Deployment](DeploymentSuccess.png)
+
+---
+
+## Overview
+
+![Overview](Overview.png)
