@@ -32,7 +32,7 @@ Learn how Azure Resource Groups logically organize Azure resources.
 
 ## Resource Group Creation
 
-![Create Resource Group](CreateResourceGroup.png)
+![Create Resource Group](CreateResouceGroup.png)
 
 ---
 
