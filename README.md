@@ -31,7 +31,7 @@ Successfully prepared the local workstation and Azure subscription for hands-on 
 | Resource Groups | ✅ Complete |
 | Microsoft Entra ID | ✅ Complete |
 | Azure Storage | ✅ Complete |
-| Virtual Networks | ⏳ Pending |
+| Virtual Networks | ✅ Complete |
 | Virtual Machines | ⏳ Pending |
 | Network Security Groups | ⏳ Pending |
 | Monitoring | ⏳ Pending |
