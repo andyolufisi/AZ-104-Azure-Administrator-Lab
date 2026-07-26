@@ -60,3 +60,8 @@ Learn how Azure Virtual Networks provide secure communication between Azure reso
 
 ![Overview](VNetsOverview.png)
 
+---
+
+## Business Scenario
+
+A company requires a secure Azure network to host its customer-facing website, application servers, SQL database, and backup infrastructure. Public access is limited to the web tier, while backend services remain on private subnets protected by Network Security Groups.
