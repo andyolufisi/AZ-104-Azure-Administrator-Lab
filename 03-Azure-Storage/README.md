@@ -24,6 +24,15 @@ Learn how Azure Storage provides scalable and secure cloud storage.
 - LRS stores three copies within a single datacenter.
 - Azure Storage supports secure access through RBAC, SAS Tokens, and Access Keys.
 
+- ## Storage Replication Comparison
+
+| Replication | Description |
+|--------------|-------------|
+| LRS | Three copies in one datacenter |
+| ZRS | Three copies across Availability Zones |
+| GRS | Data replicated to another Azure region |
+| GZRS | Zone redundancy plus geo-replication |
+
 ## Skills Demonstrated
 
 - Azure Storage
