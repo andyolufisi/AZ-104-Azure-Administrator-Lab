@@ -29,3 +29,34 @@ Learn how Azure Virtual Networks provide secure communication between Azure reso
 - Virtual Networks
 - Subnet Design
 - IP Address Planning
+
+
+# Screenshots
+
+## Create VNets
+
+![CreateVnet](CreateVNets.png)
+
+---
+
+## Address Space
+
+![Address Space](AddressSpace.png)
+
+---
+
+## Subnets
+
+![Subnets](Subnets.png)
+
+---
+
+## Deployment Successful
+![Deployment](VnetDeployment.png)
+
+---
+
+## Overview
+
+![Overview](VNetsOverview.png)
+
