@@ -32,7 +32,7 @@ Successfully prepared the local workstation and Azure subscription for hands-on 
 | Microsoft Entra ID | ✅ Complete |
 | Azure Storage | ✅ Complete |
 | Virtual Networks | ✅ Complete |
-| Virtual Machines | ⏳ Pending |
+| Virtual Machines | ✅ Complete |
 | Network Security Groups | ⏳ Pending |
 | Monitoring | ⏳ Pending |
 | Backup & Recovery | ⏳ Pending |
@@ -49,3 +49,9 @@ Successfully prepared the local workstation and Azure subscription for hands-on 
 - GitHub
 - Microsoft Entra ID
 
+
+---
+
+# 💻 NOTE
+
+Note: The virtual machine was deployed in the West US 2 region because the preferred VM size was unavailable in East US for the Azure Free Trial subscription at the time of deployment. This reflects a real-world scenario where administrators may need to select an alternative region due to temporary capacity constraints.
