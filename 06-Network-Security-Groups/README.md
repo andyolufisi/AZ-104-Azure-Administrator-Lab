@@ -81,7 +81,7 @@ A company deploys a Windows Server VM to host an internal business application. 
 
 ## RDP CONNECTION FILE
 
-![Disks](Disks.png)
+![RDP Connection File](RDPFile.png)
 
 ---
 
