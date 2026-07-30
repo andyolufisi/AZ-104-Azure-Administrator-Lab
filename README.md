@@ -34,7 +34,7 @@ Successfully prepared the local workstation and Azure subscription for hands-on 
 | Virtual Networks | ✅ Complete |
 | Virtual Machines | ✅ Complete |
 | Network Security Groups | ✅ Complete |
-| Monitoring | ⏳ Pending |
+| Monitoring | ✅ Complete |
 | Backup & Recovery | ⏳ Pending |
 
 ---
