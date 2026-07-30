@@ -105,4 +105,4 @@ As the Azure Administrator for a financial institution, I implemented Azure Moni
 
 ## Mail Notification
 
-![Mail Notification](Mailnotification.png)
+![Mail Notification](mailnotification.png)
