@@ -46,3 +46,63 @@ As the Azure Administrator for a financial institution, I implemented Azure Moni
 - Alert Configuration
 - Performance Monitoring
 - Infrastructure Health Monitoring
+
+# Screenshots
+
+## Azure Monitor Overview
+
+![AzureMonitorOverview](AzureMonitorOverview.png)
+
+---
+
+## Log Analytics Overview
+
+![Log Analytics Overview](LogAnalyticsOverview.png)
+
+---
+
+## Log Analytics Workspaces
+
+![Log Analytics Workspaces](LogAnalyticsWorkspaces.png)
+
+---
+
+## Azure Activity Log
+
+![Azure Activity Log](AzureActivityLog.png)
+
+---
+
+## Azure Monitor Overview
+
+![Azure Monitor Overview](AzureMonitorOverview.png)
+
+---
+
+## Metrics
+
+![Metrics](Metrics.png)
+
+---
+
+## Diagnostics Settings
+
+![Diagnostics Settings](DiagnosticSettings.png)
+
+---
+
+## Create Alert
+
+![Create Alert](CreateAlerts.png)
+
+---
+
+## CPU Alert
+
+![CPU Alert](CPUAlerts.png)
+
+---
+
+## Mail Notification
+
+![Mail Notification](Mailnotification.png)
