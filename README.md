@@ -1,3 +1,10 @@
+# AZ-104 Azure Administrator Bootcamp
+
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Status](https://img.shields.io/badge/Bootcamp-Completed-brightgreen)
+![Labs](https://img.shields.io/badge/Labs-10%2F10-success)
+![Exam](https://img.shields.io/badge/AZ--104-In%20Preparation-blue)
+
 # ☁️ AZ-104 Azure Administrator Bootcamp
 
 A hands-on Azure Administrator portfolio documenting real-world Azure deployments, automation, networking, identity management, storage, monitoring, and security while preparing for the Microsoft AZ-104 certification.
