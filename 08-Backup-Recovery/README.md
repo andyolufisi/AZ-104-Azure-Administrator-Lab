@@ -125,13 +125,46 @@ Successfully deployed and configured Azure Backup for an Azure Virtual Machine u
 
 ## 📷 Screenshots
 
-- Recovery Services Vault
-- Backup Configuration
-- Backup Policy
-- Backup Job
-- Backup Completed
-- Protected Items
-- Recovery Point
-- Backup Overview
+---
+
+## RecoveryServicesVault.
+
+![RecoveryServicesVault.](RSVOverview.png)
+
+---
+
+## BackupPolicy
+
+![BackupPolicy](BackupPolicies.png)
+
+---
+
+## BackupJob
+
+![BackupJob](RSVBackupItems.png)
+
+---
+
+## Backup In progress
+
+![Backup In progress](BackupInprogress.png)
+
+---
+
+## Alert Rule For Failed Backup
+
+![Alert Rule For Failed Backup](AlertRuleForFailedBackup.png)
+
+---
+
+## Alert
+
+![Alert](alert.png)
+
+---
+
+## Restoration Point 
+
+![Restoration Point](RestorationPoints.png)
 
 ---
